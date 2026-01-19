@@ -16,4 +16,4 @@ The script uses the `time` library to simulate processing delays and f-strings f
 ## Proof of Concept
 Below is the script running in the terminal:
 
-![Script Running](Screenshot (4).png) 
+![Script Running . | Screenshot (4).png
